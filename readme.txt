@@ -4,3 +4,4 @@ git has a mutable index called stage.
 git stracks changes of files and simple.
 2
 3
+mm
